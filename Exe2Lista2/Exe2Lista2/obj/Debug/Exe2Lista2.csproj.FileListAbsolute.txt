@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Exe2Lista2\Exe2Lista2\obj\Debug\Exe2Lista2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Exe2Lista2\Exe2Lista2\obj\Debug\Exe2Lista2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Exe2Lista2\Exe2Lista2\obj\Debug\Exe2Lista2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exe2Lista2\Exe2Lista2\bin\Debug\Exe2Lista2.exe.config
+C:\Users\USER\source\repos\Exe2Lista2\Exe2Lista2\bin\Debug\Exe2Lista2.exe
+C:\Users\USER\source\repos\Exe2Lista2\Exe2Lista2\bin\Debug\Exe2Lista2.pdb
+C:\Users\USER\source\repos\Exe2Lista2\Exe2Lista2\obj\Debug\Exe2Lista2.exe
+C:\Users\USER\source\repos\Exe2Lista2\Exe2Lista2\obj\Debug\Exe2Lista2.pdb

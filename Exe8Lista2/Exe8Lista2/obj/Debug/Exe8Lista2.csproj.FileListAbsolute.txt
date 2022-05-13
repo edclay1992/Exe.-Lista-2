@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Exe8Lista2\Exe8Lista2\obj\Debug\Exe8Lista2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Exe8Lista2\Exe8Lista2\obj\Debug\Exe8Lista2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Exe8Lista2\Exe8Lista2\obj\Debug\Exe8Lista2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exe8Lista2\Exe8Lista2\bin\Debug\Exe8Lista2.exe.config
+C:\Users\USER\source\repos\Exe8Lista2\Exe8Lista2\bin\Debug\Exe8Lista2.exe
+C:\Users\USER\source\repos\Exe8Lista2\Exe8Lista2\bin\Debug\Exe8Lista2.pdb
+C:\Users\USER\source\repos\Exe8Lista2\Exe8Lista2\obj\Debug\Exe8Lista2.exe
+C:\Users\USER\source\repos\Exe8Lista2\Exe8Lista2\obj\Debug\Exe8Lista2.pdb

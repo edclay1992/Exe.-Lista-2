@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Exe7Lista2\Exe7Lista2\bin\Debug\Exe7Lista2.exe.config
+C:\Users\USER\source\repos\Exe7Lista2\Exe7Lista2\bin\Debug\Exe7Lista2.exe
+C:\Users\USER\source\repos\Exe7Lista2\Exe7Lista2\bin\Debug\Exe7Lista2.pdb
+C:\Users\USER\source\repos\Exe7Lista2\Exe7Lista2\obj\Debug\Exe7Lista2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Exe7Lista2\Exe7Lista2\obj\Debug\Exe7Lista2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Exe7Lista2\Exe7Lista2\obj\Debug\Exe7Lista2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exe7Lista2\Exe7Lista2\obj\Debug\Exe7Lista2.exe
+C:\Users\USER\source\repos\Exe7Lista2\Exe7Lista2\obj\Debug\Exe7Lista2.pdb
